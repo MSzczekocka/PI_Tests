@@ -1,0 +1,100 @@
+Sent query: Potrzebuję kupić chleb, Response Code: 200, Response Body: list: shopping, content: chleb
+Sent query: Na liście zakupów znajdź miejsce na mleko, Response Code: 200, Response Body: list: shopping, content: mleko
+Sent query: Dodaj płyn do naczyń do mojej listy, Response Code: 200, Response Body: list: shopping, content: płyn do naczyń
+Sent query: Chcę mieć ser na liście zakupów, Response Code: 200, Response Body: list: shopping, content: ser
+Sent query: Na obiad brakuje makaronu - dodaj go, Response Code: 200, Response Body: list: shopping, content: makaron
+Sent query: Zapomniałem o maśle, dodaj proszę, Response Code: 200, Response Body: list: shopping, content: maśle
+Sent query: Dodaj kawę do listy zakupów, Response Code: 200, Response Body: list: shopping, content: kawę
+Sent query: Herbata musi być na liście zakupów, Response Code: 200, Response Body: list: shopping, content: herbata
+Sent query: Brakuje cukru, dodaj go na listę, Response Code: 200, Response Body: list: shopping, content: cukier
+Sent query: Zapisz jajka na mojej liście zakupów, Response Code: 200, Response Body: list: shopping, content: jajka
+Sent query: Dodaj ziemniaki - są potrzebne, Response Code: 200, Response Body: list: shopping, content: ziemniaki
+Sent query: Marchew powinna znaleźć się na liście, Response Code: 200, Response Body: list: shopping, content: Marchew
+Sent query: Brakuje cebuli, dopisz ją, Response Code: 200, Response Body: list: shopping, content: cebula
+Sent query: Na deser potrzebuję owoców, Response Code: 200, Response Body: list: shopping, content: owoców
+Sent query: Jogurt naturalny jest konieczny, dopisz go, Response Code: 200, Response Body: list: shopping, content: Jogurt naturalny
+Sent query: Woda mineralna - dorzuć do listy, Response Code: 200, Response Body: list: shopping, content: Woda mineralna
+Sent query: Soki owocowe, dodaj proszę, Response Code: 200, Response Body: list: shopping, content: Soki owocowe
+Sent query: Wpisz syrop na listę zakupów, Response Code: 200, Response Body: list: shopping, content: syrop
+Sent query: Szampon powinien być na liście zakupów, Response Code: 200, Response Body: list: shopping, content: Szampon
+Sent query: Pasta do zębów, zapisz to, Response Code: 200, Response Body: list: shopping, content: Pasta do zębów
+Sent query: Brakuje żelu pod prysznic, dopisz, Response Code: 200, Response Body: list: shopping, content: żel pod prysznic
+Sent query: Proszek do prania musi być na liście, Response Code: 200, Response Body: list: shopping, content: proszek do prania
+Sent query: Wino na kolację - zapisz, Response Code: 200, Response Body: list: shopping, content: Wino na kolację
+Sent query: Dodaj piwo na listę, Response Code: 200, Response Body: list: shopping, content: piwo
+Sent query: Napoje gazowane będą potrzebne, dopisz je, Response Code: 200, Response Body: list: shopping, content: Napoje gazowane
+Sent query: Na przekąskę chipsy - zapisz to, Response Code: 200, Response Body: list: shopping, content: chipsy
+Sent query: Czekolada jest potrzebna, dopisz ją, Response Code: 200, Response Body: list: shopping, content: Czekolada
+Sent query: Dodaj ciastka do listy, Response Code: 200, Response Body: list: shopping, content: ciastka
+Sent query: Miód do herbaty, zapisz to, Response Code: 200, Response Body: list: shopping, content: Miód do herbaty
+Sent query: Oliwa z oliwek - koniecznie dopisz, Response Code: 200, Response Body: list: shopping, content: Oliwa z oliwek
+Sent query: Sos pomidorowy jest niezbędny, dopisz go, Response Code: 200, Response Body: list: shopping, content: Sos pomidorowy
+Sent query: Ketchup - zapisz to, Response Code: 200, Response Body: list: shopping, content: Ketchup
+Sent query: Musztarda jest potrzebna, dopisz ją, Response Code: 200, Response Body: list: shopping, content: musztarda
+Sent query: Majonez musi być na liście, Response Code: 200, Response Body: list: shopping, content: Majonez
+Sent query: Pieprz - dopisz do listy, Response Code: 200, Response Body: list: shopping, content: Pieprz
+Sent query: Dodaj przyprawy do listy, Response Code: 200, Response Body: list: shopping, content: przyprawy
+Sent query: Brakuje mrożonek, zapisz je, Response Code: 200, Response Body: list: shopping, content: mrożonki
+Sent query: Ryż na obiad, zapisz to, Response Code: 200, Response Body: list: shopping, content: Ryż
+Sent query: Chusteczki higieniczne muszą być na liście, Response Code: 200, Response Body: list: shopping, content: Chusteczki higieniczne
+Sent query: Dodaj produkty do pieczenia, Response Code: 200, Response Body: list: shopping, content: produkty do pieczenia
+Sent query: Pieczywo chrupkie, zapisz to, Response Code: 200, Response Body: list: shopping, content: Pieczywo chrupkie
+Sent query: Ryby są potrzebne, dopisz je, Response Code: 200, Response Body: list: shopping, content: ryby
+Sent query: Konserwy, koniecznie zapisz, Response Code: 200, Response Body: list: shopping, content: Konserwy
+Sent query: Mięso mielone musi być na liście, Response Code: 200, Response Body: list: shopping, content: mięso mielone
+Sent query: Dodaj kiełbasę do zakupów, Response Code: 200, Response Body: list: shopping, content: kiełbasę
+Sent query: Ser żółty, zapisz to, Response Code: 200, Response Body: list: shopping, content: Ser żółty
+Sent query: Śmietana jest potrzebna, dopisz ją, Response Code: 200, Response Body: list: shopping, content: śmietana
+Sent query: Warzywa do zupy, zapisz to, Response Code: 200, Response Body: list: shopping, content: Warzywa do zupy
+Sent query: Tabletki do zmywarki - dopisz je, Response Code: 200, Response Body: list: shopping, content: Tabletki do zmywarki
+Sent query: Potrzebuję kupić chleb, Response Code: 200, Response Body: list: shopping, content: chleb
+Sent query: Potrzebuję kupić chleb, Response Code: 200, Response Body: list: shopping, content: chleb
+Sent query: Na liście zakupów znajdź miejsce na mleko, Response Code: 200, Response Body: list: shopping, content: mleko
+Sent query: Dodaj płyn do naczyń do mojej listy, Response Code: 200, Response Body: list: shopping, content: płyn do naczyń
+Sent query: Chcę mieć ser na liście zakupów, Response Code: 200, Response Body: list: shopping, content: ser
+Sent query: Na obiad brakuje makaronu - dodaj go, Response Code: 200, Response Body: list: shopping, content: makaron
+Sent query: Zapomniałem o maśle, dodaj proszę, Response Code: 200, Response Body: list: shopping, content: masło
+Sent query: Dodaj kawę do listy zakupów, Response Code: 200, Response Body: list: shopping, content: kawę
+Sent query: Herbata musi być na liście zakupów, Response Code: 200, Response Body: list: shopping, content: herbata
+Sent query: Brakuje cukru, dodaj go na listę, Response Code: 200, Response Body: list: shopping, content: cukier
+Sent query: Zapisz jajka na mojej liście zakupów, Response Code: 200, Response Body: list: shopping, content: jajka
+Sent query: Dodaj ziemniaki - są potrzebne, Response Code: 200, Response Body: list: shopping, content: ziemniaki
+Sent query: Marchew powinna znaleźć się na liście, Response Code: 200, Response Body: list: shopping, content: Marchew
+Sent query: Brakuje cebuli, dopisz ją, Response Code: 200, Response Body: list: shopping, content: cebula
+Sent query: Na deser potrzebuję owoców, Response Code: 200, Response Body: list: shopping, content: owoców
+Sent query: Jogurt naturalny jest konieczny, dopisz go, Response Code: 200, Response Body: list: shopping, content: Jogurt naturalny
+Sent query: Woda mineralna - dorzuć do listy, Response Code: 200, Response Body: list: shopping, content: Woda mineralna
+Sent query: Soki owocowe, dodaj proszę, Response Code: 200, Response Body: list: shopping, content: Soki owocowe
+Sent query: Wpisz syrop na listę zakupów, Response Code: 200, Response Body: list: shopping, content: syrop
+Sent query: Szampon powinien być na liście zakupów, Response Code: 200, Response Body: list: shopping, content: Szampon
+Sent query: Pasta do zębów, zapisz to, Response Code: 200, Response Body: list: shopping, content: pasta do zębów
+Sent query: Brakuje żelu pod prysznic, dopisz, Response Code: 200, Response Body: list: shopping, content: żel pod prysznic
+Sent query: Proszek do prania musi być na liście, Response Code: 200, Response Body: list: shopping, content: Proszek do prania
+Sent query: Wino na kolację - zapisz, Response Code: 200, Response Body: list: shopping, content: Wine for dinner
+Sent query: Dodaj piwo na listę, Response Code: 200, Response Body: list: shopping, content: piwo
+Sent query: Napoje gazowane będą potrzebne, dopisz je, Response Code: 200, Response Body: list: shopping, content: Napoje gazowane
+Sent query: Na przekąskę chipsy - zapisz to, Response Code: 200, Response Body: list: shopping, content: chipsy
+Sent query: Czekolada jest potrzebna, dopisz ją, Response Code: 200, Response Body: list: shopping, content: Czekolada
+Sent query: Dodaj ciastka do listy, Response Code: 200, Response Body: list: shopping, content: ciastka
+Sent query: Miód do herbaty, zapisz to, Response Code: 200, Response Body: list: shopping, content: miód do herbaty
+Sent query: Oliwa z oliwek - koniecznie dopisz, Response Code: 200, Response Body: list: shopping, content: Oliwa z oliwek
+Sent query: Sos pomidorowy jest niezbędny, dopisz go, Response Code: 200, Response Body: list: shopping, content: Sos pomidorowy
+Sent query: Ketchup - zapisz to, Response Code: 200, Response Body: list: shopping, content: Ketchup
+Sent query: Musztarda jest potrzebna, dopisz ją, Response Code: 200, Response Body: list: shopping, content: musztarda
+Sent query: Majonez musi być na liście, Response Code: 200, Response Body: list: shopping, content: Majonez
+Sent query: Pieprz - dopisz do listy, Response Code: 200, Response Body: list: shopping, content: Pieprz
+Sent query: Dodaj przyprawy do listy, Response Code: 200, Response Body: list: shopping, content: przyprawy
+Sent query: Brakuje mrożonek, zapisz je, Response Code: 200, Response Body: list: shopping, content: mrożonki
+Sent query: Ryż na obiad, zapisz to, Response Code: 200, Response Body: list: shopping, content: Ryż
+Sent query: Chusteczki higieniczne muszą być na liście, Response Code: 200, Response Body: list: shopping, content: Chusteczki higieniczne
+Sent query: Dodaj produkty do pieczenia, Response Code: 200, Response Body: list: shopping, content: produkty do pieczenia
+Sent query: Pieczywo chrupkie, zapisz to, Response Code: 200, Response Body: list: shopping, content: Pieczywo chrupkie
+Sent query: Ryby są potrzebne, dopisz je, Response Code: 200, Response Body: list: shopping, content: Ryby
+Sent query: Konserwy, koniecznie zapisz, Response Code: 200, Response Body: list: shopping, content: Konserwy
+Sent query: Mięso mielone musi być na liście, Response Code: 200, Response Body: list: shopping, content: mięso mielone
+Sent query: Dodaj kiełbasę do zakupów, Response Code: 200, Response Body: list: shopping, content: kiełbasę
+Sent query: Ser żółty, zapisz to, Response Code: 200, Response Body: list: shopping, content: Ser żółty
+Sent query: Śmietana jest potrzebna, dopisz ją, Response Code: 200, Response Body: list: shopping, content: Śmietana
+Sent query: Warzywa do zupy, zapisz to, Response Code: 200, Response Body: list: shopping, content: Warzywa do zupy
+Sent query: Tabletki do zmywarki - dopisz je, Response Code: 200, Response Body: list: shopping, content: Tabletki do zmywarki
+Sent query: Potrzebuję kupić chleb, Response Code: 200, Response Body: list: shopping, content: chleb

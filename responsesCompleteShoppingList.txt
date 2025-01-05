@@ -1,0 +1,50 @@
+Sent query: Usuń chleb z listy zakupów, Response Code: 200, Response Body: 8737717174
+Sent query: Usuń mleko z listy zakupów, Response Code: 200, Response Body: 8737717315
+Sent query: Usuń płyn do naczyń z listy zakupów, Response Code: 200, Response Body: 8737717502
+Sent query: Usuń ser z listy zakupów, Response Code: 200, Response Body: 8737717652
+Sent query: Usuń makaron z listy zakupów, Response Code: 200, Response Body: 8737717781
+Sent query: Usuń masło z listy zakupów, Response Code: 200, Response Body: 8737717987
+Sent query: Usuń kawę z listy zakupów, Response Code: 200, Response Body: 8737718125
+Sent query: Usuń herbatę z listy zakupów, Response Code: 200, Response Body: 8737718317
+Sent query: Usuń cukier z listy zakupów, Response Code: 200, Response Body: 8737718551
+Sent query: Usuń jajka z listy zakupów, Response Code: 200, Response Body: 8737718725
+Sent query: Usuń ziemniaki z listy zakupów, Response Code: 200, Response Body: 8737718886
+Sent query: Usuń marchew z listy zakupów, Response Code: 200, Response Body: 8737719028
+Sent query: Usuń cebulę z listy zakupów, Response Code: 200, Response Body: 8737719210
+Sent query: Usuń owoce z listy zakupów, Response Code: 200, Response Body: 8737719514
+Sent query: Usuń jogurt naturalny z listy zakupów, Response Code: 200, Response Body: 8737719818
+Sent query: Usuń wodę mineralną z listy zakupów, Response Code: 200, Response Body: 8737719938
+Sent query: Usuń soki owocowe z listy zakupów, Response Code: 200, Response Body: 8737720093
+Sent query: Usuń syrop z listy zakupów, Response Code: 200, Response Body: 8737720300
+Sent query: Usuń szampon z listy zakupów, Response Code: 200, Response Body: 8737720552
+Sent query: Usuń pastę do zębów z listy zakupów, Response Code: 200, Response Body: 8737720762
+Sent query: Usuń żel pod prysznic z listy zakupów, Response Code: 200, Response Body: 8737720906
+Sent query: Usuń proszek do prania z listy zakupów, Response Code: 200, Response Body: 8737721091
+Sent query: Usuń wino z listy zakupów, Response Code: 200, Response Body: 8737721412
+Sent query: Usuń piwo z listy zakupów, Response Code: 200, Response Body: 8737756780
+Sent query: Usuń napoje gazowane z listy zakupów, Response Code: 200, Response Body: 8737721612
+Sent query: Usuń chipsy z listy zakupów, Response Code: 200, Response Body: 8737721784
+Sent query: Usuń czekoladę z listy zakupów, Response Code: 200, Response Body: 8737721907
+Sent query: Usuń ciastka z listy zakupów, Response Code: 200, Response Body: 8737722122
+Sent query: Usuń miód z listy zakupów, Response Code: 200, Response Body: 8737722358
+Sent query: Usuń oliwę z oliwek z listy zakupów, Response Code: 200, Response Body: 8737722534
+Sent query: Usuń sos pomidorowy z listy zakupów, Response Code: 200, Response Body: 8737722758
+Sent query: Usuń ketchup z listy zakupów, Response Code: 200, Response Body: 8737722977
+Sent query: Usuń musztardę z listy zakupów, Response Code: 200, Response Body: 8737723127
+Sent query: Usuń majonez z listy zakupów, Response Code: 200, Response Body: 8737723319
+Sent query: Usuń pieprz z listy zakupów, Response Code: 200, Response Body: 8737723457
+Sent query: Usuń przyprawy z listy zakupów, Response Code: 200, Response Body: 8737723657
+Sent query: Usuń mrożonki z listy zakupów, Response Code: 200, Response Body: 8737723784
+Sent query: Usuń ryż z listy zakupów, Response Code: 200, Response Body: 8737723925
+Sent query: Usuń chusteczki higieniczne z listy zakupów, Response Code: 200, Response Body: 8737724071
+Error sending query: Usuń produkty do pieczenia z listy zakupów, Error: Server returned HTTP response code: 500 for URL: https://hook.eu2.make.com/mja2hg4iy6dsajbagpg3cj96h7mpffby
+Sent query: Usuń pieczywo chrupkie z listy zakupów, Response Code: 200, Response Body: 8737724457
+Sent query: Usuń ryby z listy zakupów, Response Code: 200, Response Body: 8737724573
+Sent query: Usuń konserwy z listy zakupów, Response Code: 200, Response Body: 8737724808
+Sent query: Usuń mięso mielone z listy zakupów, Response Code: 200, Response Body: 8737724920
+Sent query: Usuń kiełbasę z listy zakupów, Response Code: 200, Response Body: 8737725134
+Sent query: Usuń ser żółty z listy zakupów, Response Code: 200, Response Body: 8737725400
+Sent query: Usuń śmietanę z listy zakupów, Response Code: 200, Response Body: 8737725572
+Sent query: Usuń warzywa z listy zakupów, Response Code: 200, Response Body: 8737725740
+Sent query: Usuń tabletki do zmywarki z listy zakupów, Response Code: 200, Response Body: 8737725954
+Sent query: Usuń chleb z listy zakupów, Response Code: 200, Response Body: 8737726112

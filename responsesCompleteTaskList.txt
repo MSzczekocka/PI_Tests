@@ -1,0 +1,50 @@
+Error sending query: Usuń spotkanie z koleżanką jutro o godzinie 11 z listy zadań, Response Code: 200, Response Body: Task not found.
+Sent query: Usuń sprzątanie kuchni z listy zadań, Response Code: 200, Response Body: 8737642599
+Sent query: Usuń wizytę u lekarza z listy zadań, Response Code: 200, Response Body: 8737645072
+Sent query: Usuń wizytę u lekarza w czwartek o 15 z listy zadań, Response Code: 200, Response Body: Task not found.
+Sent query: Usuń zaplanowanie zakupów na sobotę z listy zadań, Response Code: 200, Response Body: 8737649702
+Error sending query: Usuń zadanie: zadzwonić do rodziców wieczorem, Response Code: 200, Response Body: 8731909746
+Sent query: Usuń przypomnienie o spotkaniu zespołu z listy zadań, Response Code: 200, Response Body: 8737643738
+Sent query: Usuń zamówienie książek do nauki języka z listy zadań, Response Code: 200, Response Body: 8737644034
+Sent query: Usuń przygotowanie prezentacji na poniedziałek z listy zadań, Response Code: 200, Response Body: 8737644247
+Sent query: Usuń rezerwację biletów na koncert z listy zadań, Response Code: 200, Response Body: 8737644406
+Sent query: Usuń wysłanie e-maila z raportem do szefa z listy zadań, Response Code: 200, Response Body: 8737644562
+Sent query: Usuń odbiór prania z pralni z listy zadań, Response Code: 200, Response Body: 8737644718
+Sent query: Usuń przygotowanie listy rzeczy do pakowania na wyjazd z listy zadań, Response Code: 200, Response Body: 8737644860
+Sent query: Usuń sprawdzenie wyników badań online z listy zadań, Response Code: 200, Response Body: 8737644963
+Sent query: Usuń umówienie wizyty u dentysty z listy zadań, Response Code: 200, Response Body: 8737655183
+Sent query: Usuń zorganizowanie spotkania z przyjaciółmi z listy zadań, Response Code: 200, Response Body: Response Body: 8556655140
+Sent query: Usuń napisanie recenzji ostatnio przeczytanej książki z listy zadań, Response Code: 200, Response Body: 8737645371
+Sent query: Usuń zaplanowanie budżetu na kolejny miesiąc z listy zadań, Response Code: 200, Response Body: 8749145240
+Sent query: Usuń sprawdzenie harmonogramu zajęć na uczelni z listy zadań, Response Code: 200, Response Body: 8737645688
+Sent query: Usuń zamówienie nowych opon do samochodu z listy zadań, Response Code: 200, Response Body: 8737645993
+Sent query: Usuń przygotowanie posiłków na cały tydzień z listy zadań, Response Code: 200, Response Body: 8737646529
+Sent query: Usuń rejestrację na kurs online z listy zadań, Response Code: 200, Response Body: 8737646637
+Sent query: Usuń poprawienie prezentacji przed ważnym spotkaniem z listy zadań, Response Code: 200, Response Body: 8737646783
+Sent query: Usuń przypomnienie o urodzinach kolegi z listy zadań, Response Code: 200, Response Body: 8737646991
+Sent query: Usuń zorganizowanie dokumentów potrzebnych do rozliczenia podatkowego z listy zadań, Response Code: 200, Response Body: 8737647174
+Sent query: Usuń zgłoszenie się na wolontariat w lokalnej organizacji z listy zadań, Response Code: 200, Response Body: 8733370212
+Sent query: Usuń zapisanie się na badania kontrolne z listy zadań, Response Code: 200, Response Body: 8737647979
+Sent query: Usuń przygotowanie dekoracji na przyjęcie z listy zadań, Response Code: 200, Response Body: 8737648122
+Sent query: Usuń wybranie zdjęć do albumu rodzinnego z listy zadań, Response Code: 200, Response Body: 8737648286
+Sent query: Usuń zaplanowanie trasy podróży z listy zadań, Response Code: 200, Response Body: 8737648409
+Sent query: Usuń sprawdzenie terminu dostępności sali konferencyjnej z listy zadań, Response Code: 200, Response Body: 8737648543
+Sent query: Usuń zrobienie porządku w skrzynce mailowej z listy zadań, Response Code: 200, Response Body: 8737648709
+Sent query: Usuń dokończenie artykułu do publikacji z listy zadań, Response Code: 200, Response Body: 8737648939
+Sent query: Usuń sprawdzenie ofert pracy w branży z listy zadań, Response Code: 200, Response Body: 8737649205
+Sent query: Usuń aktualizację profilu zawodowego na LinkedIn z listy zadań, Response Code: 200, Response Body: 8737649412
+Sent query: Usuń zaplanowanie aktywności na najbliższy weekend z listy zadań, Response Code: 200, Response Body: 8517801415
+Sent query: Usuń zorganizowanie zbiórki na cel charytatywny z listy zadań, Response Code: 200, Response Body: 8737649882
+Sent query: Usuń rezerwację terminu wizyty u fryzjera z listy zadań, Response Code: 200, Response Body: Task not found.
+Sent query: Usuń napisanie listu do przyjaciela z listy zadań, Response Code: 200, Response Body: 8737650278
+Sent query: Usuń przygotowanie listy filmów do obejrzenia z listy zadań, Response Code: 200, Response Body: 8737650451
+Sent query: Usuń zaprojektowanie zaproszeń na ślub z listy zadań, Response Code: 200, Response Body: 8737650600
+Sent query: Usuń uzupełnienie brakujących danych w projekcie z listy zadań, Response Code: 200, Response Body: 8737650723
+Sent query: Usuń przypomnienie zespołowi o nadchodzącym terminie projektu z listy zadań, Response Code: 200, Response Body: Task not found.
+Sent query: Usuń posprzątanie garażu z listy zadań, Response Code: 200, Response Body: 8737651207
+Sent query: Usuń przygotowanie prezentu na urodziny mamy z listy zadań, Response Code: 200, Response Body: 8737651436
+Sent query: Usuń wybranie nowych przepisów na obiad z listy zadań, Response Code: 200, Response Body: 8737651568
+Sent query: Usuń umówienie się na spotkanie networkingowe z listy zadań, Response Code: 200, Response Body: 8737652003
+Error sending query: Usuń sprawdzenie stanu technicznego roweru z listy zadań, Response Code: 200, Response Body: 8770644413
+Sent query: Usuń rezerwację wycieczki do muzeum z listy zadań, Response Code: 200, Response Body: 8737652465
+Sent query: Usuń przygotowanie planu treningowego na kolejny tydzień z listy zadań, Response Code: 200, Response Body: 8737652687

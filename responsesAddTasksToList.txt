@@ -1,0 +1,50 @@
+Sent query: Dodaj spotkanie z koleżanką jutro o godzinie 11, Response Code: 200, Response Body: list: task, content: spotkanie z koleżanką
+Sent query: Posprzątać kuchnię, Response Code: 200, Response Body: list: task, content: Posprzątać kuchnię
+Sent query: Umówić wizytę u lekarza, Response Code: 200, Response Body: list: task, content: Umówić wizytę u lekarza
+Sent query: Dodaj wizytę u lekarza w czwartek o 15, Response Code: 200, Response Body: list: task, content: wizytę u lekarza
+Sent query: Zaplanować zakupy na sobotę, Response Code: 200, Response Body: list: task, content: Zakupy na sobotę
+Sent query: Zadzwonić do rodziców wieczorem, Response Code: 200, Response Body: list: task, content: Zadzwoń do rodziców
+Sent query: Ustawić przypomnienie o spotkaniu zespołu, Response Code: 200, Response Body: list: task, content: spotkanie zespołu
+Sent query: Zamówić książki do nauki języka, Response Code: 200, Response Body: list: task, content: Zamówić książki do nauki języka
+Sent query: Przygotować prezentację na poniedziałek, Response Code: 200, Response Body: list: task, content: Przygotować prezentację
+Sent query: Dopisz do listy zadań, że muszę zarezerwować bilety na koncert, Response Code: 200, Response Body: list: task, content: zarezerwować bilety na koncert
+Sent query: Dopisz do listy zadań, że muszę wysłać e-mail z raportem do szefa, Response Code: 200, Response Body: list: task, content: wysłać e-mail z raportem do szefa
+Sent query: Odebrać pranie z pralni, Response Code: 200, Response Body: list: task, content: Odebrać pranie z pralni
+Sent query: Przygotować listę rzeczy do pakowania na wyjazd, Response Code: 200, Response Body: list: task, content: Przygotować listę rzeczy do pakowania na wyjazd
+Sent query: Dopisz, że muszę sprawdzić wyniki badań online, Response Code: 200, Response Body: list: task, content: sprawdzić wyniki badań online
+Sent query: Muszę się umówić wizytę u dentysty. Dodaj to do listy zadań, Response Code: 200, Response Body: list: task, content: Umówić wizytę u dentysty
+Sent query: Zorganizować spotkanie z przyjaciółmi. Response Code: 200, Response Body: list: task, content: Zorganizować spotkanie z przyjaciółmi
+Sent query: Dopisz do listy zadań, że muszę napisać recenzję ostatnio przeczytanej książki, Response Code: 200, Response Body: list: task, content: Napisać recenzję ostatnio przeczytanej książki
+Sent query: Zaplanować budżet na kolejny miesiąc, Response Code: 200, Response Body: list: task, content: Zaplanować budżet na kolejny miesiąc
+Sent query: Mam zadanie sprawdzić harmonogram zajęć na uczelni. Dodaj do listy zadań , Response Code: 200, Response Body: list: task, content: Check university schedule
+Sent query: Zamówić nowe opony do samochodu, Response Code: 200, Response Body: list: task, content: Zamówić nowe opony do samochodu
+Sent query: Przygotować posiłki na cały tydzień, Response Code: 200, Response Body: list: task, content: Przygotować posiłki na cały tydzień
+Sent query: Muszę zarejestrować się na kurs online. Zapisz na liście., Response Code: 200, Response Body: list: task, content: kurs online
+Sent query: Poprawić prezentację przed ważnym spotkaniem, Response Code: 200, Response Body: list: task, content: Poprawić prezentację przed ważnym spotkaniem
+Sent query: Przypomnieć o urodzinach kolegi, Response Code: 200, Response Body: list: task, content: Przypomnienie o urodzinach kolegi
+Sent query: Zorganizować dokumenty potrzebne do rozliczenia podatkowego, Response Code: 200, Response Body: list: task, content: Zorganizować dokumenty potrzebne do rozliczenia podatkowego
+Sent query: Zgłosić się na wolontariat w lokalnej organizacji, Response Code: 200, Response Body: list: task, content: Zgłosić się na wolontariat w lokalnej organizacji
+Sent query: Zapisać się na badania kontrolne, Response Code: 200, Response Body: list: task, content: badania kontrolne
+Sent query: Przygotować dekoracje na przyjęcie, Response Code: 200, Response Body: list: task, content: Przygotować dekoracje na przyjęcie
+Sent query: Dodaj do listy zadań, że muszę wybrać zdjęcia do albumu rodzinnego, Response Code: 200, Response Body: list: task, content: wybrać zdjęcia do albumu rodzinnego
+Sent query: Dodaj zadanie do listy :zaplanować trasę podróży, Response Code: 200, Response Body: list: task, content: zaplanować trasę podróży
+Sent query: Dziś wieczorem muszę sprawdzić terminy dostępności sali konferencyjnej. Dodaj do listy zadań, Response Code: 200, Response Body: list: task, content: sprawdzić terminy dostępności sali konferencyjnej
+Sent query: Zrobić porządek w skrzynce mailowej, Response Code: 200, Response Body: list: task, content: Zrobić porządek w skrzynce mailowej
+Sent query: Dokończyć artykuł do publikacji, Response Code: 200, Response Body: list: task, content: Dokończyć artykuł do publikacji
+Sent query: Dodaj do listy zadań, że muszę sprawdzić oferty pracy w branży, Response Code: 200, Response Body: list: task, content: sprawdzić oferty pracy w branży
+Sent query: Mam zadanie, że muszę zaktualizować profil zawodowy na LinkedIn. Dodaj do listy., Response Code: 200, Response Body: list: task, content: Update professional profile on LinkedIn
+Sent query: Zaplanować aktywności na najbliższy weekend, Response Code: 200, Response Body: list: task, content: Plan activities for the upcoming weekend
+Sent query: Chcę zorganizować zbiórkę na cel charytatywny. Dodaj do listy zadań, Response Code: 200, Response Body: list: task, content: zbiórka na cel charytatywny
+Sent query: Zarezerwować termin wizyty u fryzjera, Response Code: 200, Response Body: Response Body: list: task, content: Zarezerwować termin wizyty u fryzjera
+Sent query: Dodaj do listy zadań, że muszę napisać list do przyjaciela, Response Code: 200, Response Body: list: task, content: napisać list do przyjaciela
+Sent query: Przygotować listę filmów do obejrzenia, Response Code: 200, Response Body: list: task, content: Przygotować listę filmów do obejrzenia
+Sent query: Dodaj do listy zadań, że muszę zaprojektować zaproszenia na ślub, Response Code: 200, Response Body: list: task, content: zaprojektować zaproszenia na ślub
+Sent query: Uzupełnić brakujące dane w projekcie, Response Code: 200, Response Body: list: task, content: project data filling
+Sent query: Przypomnieć zespołowi o nadchodzącym terminie projektu, Response Code: 200, ZResponse Body: list: task, content: Przypomnieć zespołowi o nadchodzącym terminie projektu
+Sent query: Posprzątać garaż, Response Code: 200, Response Body: list: task, content: Posprzątać garaż
+Sent query: Przygotować prezent na urodziny mamy, Response Code: 200, Response Body: list: task, content: Przygotować prezent na urodziny mamy
+Sent query: Wybrać nowe przepisy na obiad, Dodaj do listy zadań, Response Code: 200, Response Body: list: task, content: Wybrać nowe przepisy na obiad
+Sent query: Umówić się na spotkanie networkingowe, Response Code: 200, Response Body: list: task, content: spotkanie networkingowe
+Sent query: Zapisz, że muszę sprawdzić stan techniczny roweru, Response Code: 200, Response Body: list: task, content: sprawdzić stan techniczny roweru
+Sent query: Zarezerwować wycieczkę do muzeum. Dodaj do listy zadań, Response Code: 200, Response Body: list: task, content: Zarezerwować wycieczkę do muzeum
+Sent query: Zapisz na liście zadań, żę muszę rzygotować plan treningowy na kolejny tydzień, Response Code: 200, Response Body: list: task, content: przygotować plan treningowy na kolejny tydzień
