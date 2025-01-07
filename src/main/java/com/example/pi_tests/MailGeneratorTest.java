@@ -60,7 +60,7 @@ public class MailGeneratorTest {
                 "Wygeneruj e-mail z informacją o dostępności miejsc na warsztaty"
         );
 
-        String urlString = "https://hook.eu2.make.com/mja2hg4iy6dsajbagpg3cj96h7mpffby";
+        String urlString = "";
 
         try (
                 BufferedWriter writer = new BufferedWriter(new FileWriter("responsesMailGenerator.txt", true))) {

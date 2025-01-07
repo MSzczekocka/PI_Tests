@@ -15,7 +15,7 @@ public class RagQuestionNegative {
                 "Mam pytanie do pracy inżynierskiej. Czym są katalizatory w chemii?"
         );
 
-        String urlString = "https://hook.eu2.make.com/mja2hg4iy6dsajbagpg3cj96h7mpffby";
+        String urlString = "";
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("responsesRagQuestionNegative.txt", true))) {
             for (int i = 0; i < 5; i++) {

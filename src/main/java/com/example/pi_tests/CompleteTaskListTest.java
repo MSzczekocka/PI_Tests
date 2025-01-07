@@ -60,7 +60,7 @@ public class CompleteTaskListTest {
                 "Usuń przygotowanie planu treningowego na kolejny tydzień z listy zadań"
     );
 
-    String urlString = "https://hook.eu2.make.com/mja2hg4iy6dsajbagpg3cj96h7mpffby";
+    String urlString = "";
 
         try (
     BufferedWriter writer = new BufferedWriter(new FileWriter("responsesCompleteTaskList.txt", true))) {

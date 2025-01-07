@@ -59,7 +59,7 @@ public class CompleteShoppingListTest {
                 "Usuń tabletki do zmywarki z listy zakupów"
         );
 
-        String urlString = "https://hook.eu2.make.com/mja2hg4iy6dsajbagpg3cj96h7mpffby";
+        String urlString = "";
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("responsesCompleteShoppingList.txt", true))) {
             for (int i = 0; i < 50; i++) {

@@ -59,7 +59,7 @@ public class AddToShoppingListTest {
                 "Tabletki do zmywarki - dopisz je"
         );
 
-        String urlString = "https://hook.eu2.make.com/mja2hg4iy6dsajbagpg3cj96h7mpffby";
+        String urlString = "";
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("responsesAddToShoppingList.txt", true))) {
             for (int i = 0; i < 50; i++) {

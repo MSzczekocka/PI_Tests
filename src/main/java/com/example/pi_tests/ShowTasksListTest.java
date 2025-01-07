@@ -7,7 +7,7 @@ import java.net.URL;
 public class ShowTasksListTest {
 
     public static void sendShowTasksQuery(){
-    String urlString = "https://hook.eu2.make.com/mja2hg4iy6dsajbagpg3cj96h7mpffby";
+    String urlString = "";
 
     try (
     BufferedWriter writer = new BufferedWriter(new FileWriter("responsesShowTaskList.txt", true))) {

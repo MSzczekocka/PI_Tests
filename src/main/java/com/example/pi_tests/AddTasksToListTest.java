@@ -60,7 +60,7 @@ public class AddTasksToListTest {
                 "Zapisz na liście zadań, żę muszę rzygotować plan treningowy na kolejny tydzień"
         );
 
-        String urlString = "https://hook.eu2.make.com/mja2hg4iy6dsajbagpg3cj96h7mpffby";
+        String urlString = "";
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("responsesAddTasksToList.txt", true))) {
             for (int i = 0; i < 50; i++) {

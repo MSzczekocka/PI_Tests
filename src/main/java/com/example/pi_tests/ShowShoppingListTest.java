@@ -6,7 +6,7 @@ import java.net.URL;
 
 public class ShowShoppingListTest {
     public static void sendShowShoppingListQuery() {
-    String urlString = "https://hook.eu2.make.com/mja2hg4iy6dsajbagpg3cj96h7mpffby";
+    String urlString = "";
 
     try (BufferedWriter writer = new BufferedWriter(new FileWriter("responsesShowShoppingList.txt", true))) {
         for (int i = 0; i < 50; i++) {
